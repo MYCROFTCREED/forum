@@ -1,0 +1,48 @@
+label {
+    display: block;
+    margin-bottom: 8px;
+}
+
+input {
+    width: 80%;
+    padding: 8px;
+    margin-bottom: 16px;
+}
+
+
+
+.login-form {
+    max-width: 300px;
+    width : 100%;
+    padding: 20px;
+    background-color: white;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+.login-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 80vh;
+}
+
+body {
+    background-color: #177e43;
+    margin: 0;
+    width: 99%;
+}
+
+.oauth-icons a {
+    background-color: #177e43;
+    color: white;
+    width: 80%;
+    text-decoration: none;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.oauth-icons a:hover {
+    background-color: #106334;
+}

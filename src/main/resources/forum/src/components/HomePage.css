@@ -1,0 +1,83 @@
+.login-form {
+    max-width: 300px;
+    width : 100%;
+    padding: 20px;
+    background-color: white;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+.login-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 80vh; /* Full viewport height */
+}
+.header {
+    width: 100%;
+    background-color: #fff;
+    padding: 10px;
+}
+
+.logout-button {
+    margin-left: 90%;
+    background-color: #177e43;
+    color: #fff;
+    border: none;
+    padding: 10px 15px;
+    cursor: pointer;
+    border-radius: 5px;
+}
+.topic-table {
+    width: 100%;
+    border: 1px solid #ddd;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+.topic-table th, .topic-table td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+}
+
+.topic-table th {
+    background-color: #f2f2f2;
+}
+
+.topic-table tbody tr:nth-child(even) {
+    background-color: #f9f9f9;
+}
+.topic-table tbody tr:nth-child(odd) {
+    background-color: #9ac08c;
+}
+
+.topic-table tbody tr:hover {
+    background-color: #d3d3d3;
+    cursor: pointer;
+}
+
+.topic-table tfoot {
+    background-color: #f2f2f2;
+}
+
+.topic-table tfoot button {
+    padding: 8px;
+    margin: 5px;
+    font-size: 14px;
+    cursor: pointer;
+}
+
+.topic-table tfoot button:disabled {
+    background-color: #ccc;
+    cursor: not-allowed;
+}
+
+.buttonMyTopic {
+    margin-top: 5%;
+    background-color: #ffffff;
+    color: #106334;
+    border: none;
+    padding: 10px 15px;
+    cursor: pointer;
+    border-radius: 5px;
+}
