@@ -1,0 +1,11 @@
+C:\Users\Video\Desktop\FORUM\src\main\java\uniba\forumapp\Application.java
+C:\Users\Video\Desktop\FORUM\src\main\java\uniba\forumapp\dto\TopicDTO.java
+C:\Users\Video\Desktop\FORUM\src\main\java\uniba\forumapp\utils\EmailSingeton.java
+C:\Users\Video\Desktop\FORUM\src\main\java\uniba\forumapp\service\UserCreationService.java
+C:\Users\Video\Desktop\FORUM\src\main\java\uniba\forumapp\repository\TopicRepository.java
+C:\Users\Video\Desktop\FORUM\src\main\java\uniba\forumapp\config\DatabaseConnectionManager.java
+C:\Users\Video\Desktop\FORUM\src\main\java\uniba\forumapp\config\SecurityConfig.java
+C:\Users\Video\Desktop\FORUM\src\main\java\uniba\forumapp\controller\LoginController.java
+C:\Users\Video\Desktop\FORUM\src\main\java\uniba\forumapp\repository\UserRepository.java
+C:\Users\Video\Desktop\FORUM\src\main\java\uniba\forumapp\config\ProjectProperties.java
+C:\Users\Video\Desktop\FORUM\src\main\java\uniba\forumapp\dto\UserDTO.java
